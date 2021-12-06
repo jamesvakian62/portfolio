@@ -4,7 +4,7 @@ export default function Experience() {
     return (
           <>
          <div className="container">
-           <p> Experience</p>
+           <b> Experience</b>
             <p>Full stack Next.JS development by designing and building databases.</p>
             <p>React.JS, middle tier services, and APIs for client and server web code.</p>
             <p>Participate in the design, development, testing, debugging, and maintenance of software code for</p>

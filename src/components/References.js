@@ -4,15 +4,18 @@ export default function References() {
   return (
     <>
       <div className="container">
-        <a>References</a>
+        <b>References</b>
 
-        <a>Academic Experience</a>
+        <b>Academic Experience</b>
 
         <p>
           California Polytechnic State University, San Luis Obispo, CA, January
           1982 to June 1986, Bachelor Of Science, Engineering Technology,
-          Electronics concentration, graduated Microsoft Xamarin University,
-          online July 2018 to April 2019 20+ years DOS, Windows, and Mac with
+          Electronics concentration, graduated.
+          </p><p>
+          Microsoft Xamarin University,          online July 2018 to April 2019 
+          </p><p>
+              Self-taught,          20+ years DOS, Windows, and Mac with
           iOS and Andriod handheld system experience with SDK 8080, Z80, and
           8086 Assembly Language, Digitalker, RS-232, IEEE488 HPIB Automated
           Testing and personal computer BASIC, C, C++. C#, Fortran, Pascal,
