@@ -12,8 +12,6 @@ import Technologies from './components/Technologies';
 function App() {
   return (
 <>
-<div className="container">
-
 
 <Header />
 <Navbar />
@@ -22,7 +20,7 @@ function App() {
 <History />
 <Projects />
 <References />
-</div>
+
 </>
   );
 }

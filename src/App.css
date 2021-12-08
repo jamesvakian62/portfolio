@@ -16,6 +16,7 @@ width:  100vw;
 		.container {
 			padding-left: 200px;
 			padding-right: 190px;
+			
 		}
 		
 		.container .column {
@@ -27,7 +28,33 @@ width:  100vw;
 			padding: 10px 20px;
 			width: 100%;
 		}
-		
+
+		.header {
+			background-color: bisque;
+			padding: 30px;
+			text-align: center;
+			font-size: 25px;
+		  }
+	
+	/* .header{
+		display: flex;
+		text-align: center;
+		height: 150px;
+		width: 15px;
+	}  */
+	/* img {
+		max-width: 50%;
+		height: 50%;
+	  } */
+/* 		
+		 .photo{
+			display:flex;
+			justify-content: center;
+			
+			height: 150px;
+			width: 15px;
+		}  */
+
 		#left {
 			width: 180px;
 			padding: 0 10px;
